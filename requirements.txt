@@ -1,0 +1,11 @@
+easyocr==1.7.2
+fitz==0.0.1.dev2
+numpy==2.2.2
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+pandas==2.2.3
+Pillow==11.1.0
+streamlit==1.37.1
+ultralytics==8.3.57
+st-aggrid==0.3.5
+PyMuPDF==1.23.7  # Replace with the latest available version
