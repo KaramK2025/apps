@@ -10,4 +10,4 @@ num2 = st.number_input("Enter second number", value=0.0)
 # Multiplication Result
 if st.button("Multiply"):
     result = num1 * num2
-    st.success(f"Result: {result}")
+    st.success(f"Results: {result}")
